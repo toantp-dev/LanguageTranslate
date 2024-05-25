@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">LanguageTranslate</string>
+
+    <string name="favorite">Ưa thích</string>
+    <string name="setting">Cài đặt</string>
+    <string name="home">Trang chủ</string>
+    <string name="translate">Dịch</string>
+
+    <string name="input">Nhập</string>
+    <string name="camera">Camera</string>
+    <string name="conversation">Đoạn hội thoại</string>
+    <string name="translate_with_ar">Dịch qua AR</string>
+
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="english">English</string>
+
+    <string name="favorite_empty">Bạn chưa lưu từ ưa thích nào cả.</string>
+    <string name="exit">Thoát</string>
+    <string name="display_language">Ngôn ngữ hiển thị</string>
+    <string name="contact">Liên hệ</string>
+
+    <string name="introduce">Giới thiệu</string>
+    <string name="introduce_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sodales tellus urna, in varius metus molestie eu. Nam tellus purus, tristique ac dapibus in, tempus vitae odio. Praesent vestibulum a arcu a sollicitudin. Aliquam at fermentum erat. Aliquam efficitur elit urna, accumsan ornare nunc lacinia ac. Suspendisse iaculis cursus elit fringilla rhoncus. Vivamus feugiat ligula vel est malesuada pretium. Vivamus iaculis mi quis lorem accumsan, eget egestas diam posuere. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</string>
+
+    <string name="policy">Chính sách bảo mật</string>
+    <string name="policy_description">Maecenas imperdiet elit in mattis faucibus. Etiam odio arcu, rhoncus vel consequat eget, egestas et tortor. Nunc vel placerat nulla. Quisque ipsum mi, rhoncus ut nunc et, faucibus consectetur nulla. Morbi id nisi nibh. Maecenas sagittis facilisis accumsan. Maecenas at vestibulum ipsum. Curabitur posuere iaculis orci, ut ultrices lectus consequat et. Vestibulum sagittis risus mauris, vel auctor est consequat eget. Aenean sit amet tellus tortor. Nullam suscipit lorem molestie tincidunt efficitur. Aenean vel efficitur eros, eget placerat elit. Duis nulla tortor, gravida vehicula sodales vitae, elementum id odio. Sed bibendum pellentesque odio eget tempor. Morbi a massa posuere, congue justo vel, ornare libero.Vivamus hendrerit lectus odio, sed fermentum erat condimentum eget. Pellentesque a blandit ligula. Aliquam quam urna, fringilla vitae nibh quis, efficitur dapibus nulla. Pellentesque malesuada iaculis tempus. Maecenas rhoncus tellus id velit venenatis sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Vestibulum bibendum eu lacus ut bibendum. Aliquam erat volutpat. Sed aliquet lorem diam, laoreet tempus odio mattis ac.</string>
+
+    <string name="zalo">Zalo</string>
+    <string name="messenger">Messenger</string>
+    <string name="telegram">Telegram</string>
+
+
+</resources>
